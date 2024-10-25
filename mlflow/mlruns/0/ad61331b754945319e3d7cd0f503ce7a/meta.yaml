@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Data%20Science/10acadamy/week8_challenge/mlflow/mlruns/0/ad61331b754945319e3d7cd0f503ce7a/artifacts
+end_time: 1729815485917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad61331b754945319e3d7cd0f503ce7a
+run_name: tasteful-snake-780
+run_uuid: ad61331b754945319e3d7cd0f503ce7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729815468466
+status: 3
+tags: []
+user_id: eep

@@ -6,7 +6,9 @@ from app_instance import app  # Import the app instance
 from app import app
 
 # Load and preprocess data
-df = pd.read_csv('weather_data.csv')
+
+df = pd.read_csv('D:/Data Science/10acadamy/week8_challenge/Dash/weather_data.csv')
+
 
 # Populate dropdown options on initial load
 @app.callback(
